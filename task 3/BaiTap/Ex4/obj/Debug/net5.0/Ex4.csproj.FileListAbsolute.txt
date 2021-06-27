@@ -1,0 +1,15 @@
+D:\hoc\github\C-\task 3\BaiTap\Ex4\bin\Debug\net5.0\Ex4.exe
+D:\hoc\github\C-\task 3\BaiTap\Ex4\bin\Debug\net5.0\Ex4.deps.json
+D:\hoc\github\C-\task 3\BaiTap\Ex4\bin\Debug\net5.0\Ex4.runtimeconfig.json
+D:\hoc\github\C-\task 3\BaiTap\Ex4\bin\Debug\net5.0\Ex4.runtimeconfig.dev.json
+D:\hoc\github\C-\task 3\BaiTap\Ex4\bin\Debug\net5.0\Ex4.dll
+D:\hoc\github\C-\task 3\BaiTap\Ex4\bin\Debug\net5.0\ref\Ex4.dll
+D:\hoc\github\C-\task 3\BaiTap\Ex4\bin\Debug\net5.0\Ex4.pdb
+D:\hoc\github\C-\task 3\BaiTap\Ex4\obj\Debug\net5.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\github\C-\task 3\BaiTap\Ex4\obj\Debug\net5.0\Ex4.AssemblyInfoInputs.cache
+D:\hoc\github\C-\task 3\BaiTap\Ex4\obj\Debug\net5.0\Ex4.AssemblyInfo.cs
+D:\hoc\github\C-\task 3\BaiTap\Ex4\obj\Debug\net5.0\Ex4.csproj.CoreCompileInputs.cache
+D:\hoc\github\C-\task 3\BaiTap\Ex4\obj\Debug\net5.0\Ex4.dll
+D:\hoc\github\C-\task 3\BaiTap\Ex4\obj\Debug\net5.0\ref\Ex4.dll
+D:\hoc\github\C-\task 3\BaiTap\Ex4\obj\Debug\net5.0\Ex4.pdb
+D:\hoc\github\C-\task 3\BaiTap\Ex4\obj\Debug\net5.0\Ex4.genruntimeconfig.cache

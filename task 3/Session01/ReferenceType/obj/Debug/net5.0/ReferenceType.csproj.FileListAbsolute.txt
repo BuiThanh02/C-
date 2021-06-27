@@ -1,0 +1,16 @@
+D:\hoc\github\C-\task 3\Session01\ReferenceType\bin\Debug\net5.0\ReferenceType.exe
+D:\hoc\github\C-\task 3\Session01\ReferenceType\bin\Debug\net5.0\ReferenceType.deps.json
+D:\hoc\github\C-\task 3\Session01\ReferenceType\bin\Debug\net5.0\ReferenceType.runtimeconfig.json
+D:\hoc\github\C-\task 3\Session01\ReferenceType\bin\Debug\net5.0\ReferenceType.runtimeconfig.dev.json
+D:\hoc\github\C-\task 3\Session01\ReferenceType\bin\Debug\net5.0\ReferenceType.dll
+D:\hoc\github\C-\task 3\Session01\ReferenceType\bin\Debug\net5.0\ref\ReferenceType.dll
+D:\hoc\github\C-\task 3\Session01\ReferenceType\bin\Debug\net5.0\ReferenceType.pdb
+D:\hoc\github\C-\task 3\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.csproj.AssemblyReference.cache
+D:\hoc\github\C-\task 3\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\github\C-\task 3\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.AssemblyInfoInputs.cache
+D:\hoc\github\C-\task 3\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.AssemblyInfo.cs
+D:\hoc\github\C-\task 3\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.csproj.CoreCompileInputs.cache
+D:\hoc\github\C-\task 3\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.dll
+D:\hoc\github\C-\task 3\Session01\ReferenceType\obj\Debug\net5.0\ref\ReferenceType.dll
+D:\hoc\github\C-\task 3\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.pdb
+D:\hoc\github\C-\task 3\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.genruntimeconfig.cache

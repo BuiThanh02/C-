@@ -1,0 +1,15 @@
+D:\hoc\github\C-\task 3\Session01\DataType\bin\Debug\net5.0\DataType.exe
+D:\hoc\github\C-\task 3\Session01\DataType\bin\Debug\net5.0\DataType.deps.json
+D:\hoc\github\C-\task 3\Session01\DataType\bin\Debug\net5.0\DataType.runtimeconfig.json
+D:\hoc\github\C-\task 3\Session01\DataType\bin\Debug\net5.0\DataType.runtimeconfig.dev.json
+D:\hoc\github\C-\task 3\Session01\DataType\bin\Debug\net5.0\DataType.dll
+D:\hoc\github\C-\task 3\Session01\DataType\bin\Debug\net5.0\ref\DataType.dll
+D:\hoc\github\C-\task 3\Session01\DataType\bin\Debug\net5.0\DataType.pdb
+D:\hoc\github\C-\task 3\Session01\DataType\obj\Debug\net5.0\DataType.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\github\C-\task 3\Session01\DataType\obj\Debug\net5.0\DataType.AssemblyInfoInputs.cache
+D:\hoc\github\C-\task 3\Session01\DataType\obj\Debug\net5.0\DataType.AssemblyInfo.cs
+D:\hoc\github\C-\task 3\Session01\DataType\obj\Debug\net5.0\DataType.csproj.CoreCompileInputs.cache
+D:\hoc\github\C-\task 3\Session01\DataType\obj\Debug\net5.0\DataType.dll
+D:\hoc\github\C-\task 3\Session01\DataType\obj\Debug\net5.0\ref\DataType.dll
+D:\hoc\github\C-\task 3\Session01\DataType\obj\Debug\net5.0\DataType.pdb
+D:\hoc\github\C-\task 3\Session01\DataType\obj\Debug\net5.0\DataType.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\hoc\github\C-\task 3\BaiTap\Ex3\bin\Debug\net5.0\Ex3.exe
+D:\hoc\github\C-\task 3\BaiTap\Ex3\bin\Debug\net5.0\Ex3.deps.json
+D:\hoc\github\C-\task 3\BaiTap\Ex3\bin\Debug\net5.0\Ex3.runtimeconfig.json
+D:\hoc\github\C-\task 3\BaiTap\Ex3\bin\Debug\net5.0\Ex3.runtimeconfig.dev.json
+D:\hoc\github\C-\task 3\BaiTap\Ex3\bin\Debug\net5.0\Ex3.dll
+D:\hoc\github\C-\task 3\BaiTap\Ex3\bin\Debug\net5.0\ref\Ex3.dll
+D:\hoc\github\C-\task 3\BaiTap\Ex3\bin\Debug\net5.0\Ex3.pdb
+D:\hoc\github\C-\task 3\BaiTap\Ex3\obj\Debug\net5.0\Ex3.csproj.AssemblyReference.cache
+D:\hoc\github\C-\task 3\BaiTap\Ex3\obj\Debug\net5.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\github\C-\task 3\BaiTap\Ex3\obj\Debug\net5.0\Ex3.AssemblyInfoInputs.cache
+D:\hoc\github\C-\task 3\BaiTap\Ex3\obj\Debug\net5.0\Ex3.AssemblyInfo.cs
+D:\hoc\github\C-\task 3\BaiTap\Ex3\obj\Debug\net5.0\Ex3.csproj.CoreCompileInputs.cache
+D:\hoc\github\C-\task 3\BaiTap\Ex3\obj\Debug\net5.0\Ex3.dll
+D:\hoc\github\C-\task 3\BaiTap\Ex3\obj\Debug\net5.0\ref\Ex3.dll
+D:\hoc\github\C-\task 3\BaiTap\Ex3\obj\Debug\net5.0\Ex3.pdb
+D:\hoc\github\C-\task 3\BaiTap\Ex3\obj\Debug\net5.0\Ex3.genruntimeconfig.cache

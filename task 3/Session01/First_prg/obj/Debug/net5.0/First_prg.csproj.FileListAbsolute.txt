@@ -1,0 +1,16 @@
+D:\hoc\github\C-\task 3\Session01\First_prg\bin\Debug\net5.0\First_prg.exe
+D:\hoc\github\C-\task 3\Session01\First_prg\bin\Debug\net5.0\First_prg.deps.json
+D:\hoc\github\C-\task 3\Session01\First_prg\bin\Debug\net5.0\First_prg.runtimeconfig.json
+D:\hoc\github\C-\task 3\Session01\First_prg\bin\Debug\net5.0\First_prg.runtimeconfig.dev.json
+D:\hoc\github\C-\task 3\Session01\First_prg\bin\Debug\net5.0\First_prg.dll
+D:\hoc\github\C-\task 3\Session01\First_prg\bin\Debug\net5.0\ref\First_prg.dll
+D:\hoc\github\C-\task 3\Session01\First_prg\bin\Debug\net5.0\First_prg.pdb
+D:\hoc\github\C-\task 3\Session01\First_prg\obj\Debug\net5.0\First_prg.csproj.AssemblyReference.cache
+D:\hoc\github\C-\task 3\Session01\First_prg\obj\Debug\net5.0\First_prg.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\github\C-\task 3\Session01\First_prg\obj\Debug\net5.0\First_prg.AssemblyInfoInputs.cache
+D:\hoc\github\C-\task 3\Session01\First_prg\obj\Debug\net5.0\First_prg.AssemblyInfo.cs
+D:\hoc\github\C-\task 3\Session01\First_prg\obj\Debug\net5.0\First_prg.csproj.CoreCompileInputs.cache
+D:\hoc\github\C-\task 3\Session01\First_prg\obj\Debug\net5.0\First_prg.dll
+D:\hoc\github\C-\task 3\Session01\First_prg\obj\Debug\net5.0\ref\First_prg.dll
+D:\hoc\github\C-\task 3\Session01\First_prg\obj\Debug\net5.0\First_prg.pdb
+D:\hoc\github\C-\task 3\Session01\First_prg\obj\Debug\net5.0\First_prg.genruntimeconfig.cache
