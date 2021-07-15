@@ -1,0 +1,16 @@
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.exe
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.deps.json
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.runtimeconfig.json
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.runtimeconfig.dev.json
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.dll
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\bin\Debug\net5.0\ref\IssuesWithNonGenericCollections.dll
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.pdb
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.csproj.AssemblyReference.cache
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.AssemblyInfoInputs.cache
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.AssemblyInfo.cs
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.csproj.CoreCompileInputs.cache
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.dll
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\obj\Debug\net5.0\ref\IssuesWithNonGenericCollections.dll
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.pdb
+D:\hoc\github\C-\VD\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.genruntimeconfig.cache
