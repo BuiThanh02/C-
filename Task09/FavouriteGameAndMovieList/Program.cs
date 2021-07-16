@@ -49,11 +49,12 @@ namespace FavouriteGameAndMovieList
                     case '4':
                         PrintList<Movie>(MovieList);
                         break;
+                    
                 }
             }
-            while (a != 5);
+            while (a != '5');
             Console.WriteLine("Thank you for using our service.");
-            return;
+            
         }
 
         static void PrintList<T>(GameAndMovieCollection<T> MyList)
