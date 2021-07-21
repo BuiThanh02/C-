@@ -1,0 +1,16 @@
+D:\hoc\github\C-\BaiThi\GeometryExample\bin\Debug\net5.0\GeometryExample.exe
+D:\hoc\github\C-\BaiThi\GeometryExample\bin\Debug\net5.0\GeometryExample.deps.json
+D:\hoc\github\C-\BaiThi\GeometryExample\bin\Debug\net5.0\GeometryExample.runtimeconfig.json
+D:\hoc\github\C-\BaiThi\GeometryExample\bin\Debug\net5.0\GeometryExample.runtimeconfig.dev.json
+D:\hoc\github\C-\BaiThi\GeometryExample\bin\Debug\net5.0\GeometryExample.dll
+D:\hoc\github\C-\BaiThi\GeometryExample\bin\Debug\net5.0\ref\GeometryExample.dll
+D:\hoc\github\C-\BaiThi\GeometryExample\bin\Debug\net5.0\GeometryExample.pdb
+D:\hoc\github\C-\BaiThi\GeometryExample\obj\Debug\net5.0\GeometryExample.csproj.AssemblyReference.cache
+D:\hoc\github\C-\BaiThi\GeometryExample\obj\Debug\net5.0\GeometryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\github\C-\BaiThi\GeometryExample\obj\Debug\net5.0\GeometryExample.AssemblyInfoInputs.cache
+D:\hoc\github\C-\BaiThi\GeometryExample\obj\Debug\net5.0\GeometryExample.AssemblyInfo.cs
+D:\hoc\github\C-\BaiThi\GeometryExample\obj\Debug\net5.0\GeometryExample.csproj.CoreCompileInputs.cache
+D:\hoc\github\C-\BaiThi\GeometryExample\obj\Debug\net5.0\GeometryExample.dll
+D:\hoc\github\C-\BaiThi\GeometryExample\obj\Debug\net5.0\ref\GeometryExample.dll
+D:\hoc\github\C-\BaiThi\GeometryExample\obj\Debug\net5.0\GeometryExample.pdb
+D:\hoc\github\C-\BaiThi\GeometryExample\obj\Debug\net5.0\GeometryExample.genruntimeconfig.cache
